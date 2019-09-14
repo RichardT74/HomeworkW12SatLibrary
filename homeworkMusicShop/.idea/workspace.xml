@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47aa6b19-7799-4a5d-9ddb-7384b6fe3ea3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_2/arrays_arraylists/arrays_end_point/ArraysEndPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/BusStop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_4/algorithms/AlgorithmsEndPoint/AlgorithmsEndPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/modules/enums_lab_solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_1/abstract_classes/.idea/abstract_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_1/abstract_classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_1/employee_lab/EmployeeLab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkStartPoint/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkStartPoint/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkStartPoint/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkStartPoint/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkStartPoint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkStartPoint/ThemeParkStartPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/CarDealership.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/Vehicles/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/Vehicles/HybridCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/Vehicles/MotorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/Vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/components/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/components/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/components/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/components/PetrolEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/main/java/components/Tyre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/test/java/ComponetTest/ElectricEngineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/test/java/ComponetTest/PetrolEngineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/test/java/VechiclesTest/ElectricCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/test/java/VechiclesTest/HybridCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_3/Lab/CarDealership/src/test/java/VechiclesTest/MotorCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkMusicShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behaviours/IPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behaviours/ISell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/items/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/items/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/items/Violin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ViolinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/events/events_end/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_06/day_4/events/events_end/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/lab_events/lab_events_end/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_06/day_4/lab_events/lab_events_end/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/lab_events/lab_events_start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_06/day_4/lab_events/lab_events_start/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/1_webpack/webpack_start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_1/1_webpack/webpack_start/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/2_computed_properties/computed_properties_start_code/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_2/2_computed_properties/computed_properties_start_code/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/2_computed_properties/computed_properties_start_code/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_2/2_computed_properties/computed_properties_start_code/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/2_computed_properties/computed_properties_start_code/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_2/2_computed_properties/computed_properties_start_code/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/3_countries_lab/countries_lab_solution/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_2/3_countries_lab/countries_lab_solution/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/3_multiple_components_event_bus/event_bus_end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_3/3_multiple_components_event_bus/event_bus_end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/4_multi_components_lab/multi_components_lab_mvp_solution/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_3/4_multi_components_lab/multi_components_lab_mvp_solution/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/4_multi_components_lab/multi_components_lab_mvp_solution/src/components/CountriesList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_3/4_multi_components_lab/multi_components_lab_mvp_solution/src/components/CountriesList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_1/classes_homework/single_class_homework_solution/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_1/classes_homework/single_class_homework_solution/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_2/arrays_arraylists/arrays_end_point/src/main/java/NumberList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_2/arrays_arraylists/arrays_end_point/src/main/java/NumberList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_2/classes_homework/classes_homework_solution/src/main/java/Borrower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_2/classes_homework/classes_homework_solution/src/main/java/Borrower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_2/classes_homework/classes_homework_solution/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_2/classes_homework/classes_homework_solution/src/main/java/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkStartPoint/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/employee_lab/EmployeeLab/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_1/employee_lab/EmployeeLab/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/employee_lab/EmployeeLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_1/employee_lab/EmployeeLab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_2/homework/ThemeParkSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_2/homework/ThemeParkSolution/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkSolution/src/main/java/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_2/homework/ThemeParkSolution/src/test/java/attractions/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_2/homework/ThemeParkSolution/src/test/java/attractions/RollercoasterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_3/composition/composition.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_3/composition/composition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_4/fantasy_adventure_lab/FantasyAdventureSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_4/fantasy_adventure_lab/FantasyAdventureSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_4/fantasy_adventure_lab/FantasyAdventureSolution/FantasyAdventure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_4/fantasy_adventure_lab/FantasyAdventureSolution/src/main/java/battlebehaviours/IAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_4/fantasy_adventure_lab/FantasyAdventureSolution/src/main/java/battlebehaviours/IAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weekend_homework/weekend_homework_music_shop.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/items/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IPlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ViolinTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/items/Piano.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ISell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/items/Violin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="22" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Shop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ShopTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ItemsAll/Objects.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ItemsAll/Object.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ItemsAll/Violin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectbehaviours/IPlay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/itemsAll/Object.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectbehaviours/ISell.java" />
+        <option value="$PROJECT_DIR$/src/main/java/itemsAll/Violin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ViolinTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/items/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/items/Piano.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Shop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ShopTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="91" />
+    <option name="y" value="77" />
+    <option name="width" value="1163" />
+    <option name="height" value="673" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkMusicShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkMusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkMusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkMusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkMusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="behaviours" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkMusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkMusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkMusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ShopTest (1)">
+    <configuration name="ShopTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeworkMusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViolinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homeworkMusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ViolinTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShopTest (1)" />
+        <item itemvalue="JUnit.ShopTest" />
+        <item itemvalue="JUnit.ViolinTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47aa6b19-7799-4a5d-9ddb-7384b6fe3ea3" name="Default Changelist" comment="" />
+      <created>1568382072546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568382072546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ShopTest - 2019.09.14 at 14h 57m 44s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 03m 47s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 13m 27s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 15m 37s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 17m 42s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 23m 35s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 25m 04s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 25m 23s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 28m 47s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopTest - 2019.09.14 at 15h 52m 20s.xml">
+      <configuration name="ShopTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="91" y="81" width="1163" height="673" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27921498" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32874355" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.33390707" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32917038" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.14897414" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.32874355" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.33390707" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MusicShop$ShopTest.ic" NAME="ShopTest Coverage Results" MODIFIED="1568470404428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ISell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ViolinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/items/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/items/Violin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/items/Piano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ShopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
